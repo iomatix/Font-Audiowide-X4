@@ -7,5 +7,3 @@ Source on Github:
 https://github.com/iomatix/ioTools-X4Foundations/tree/main/FontTools
 
 By downloading from Nexus you will support the author
-
-WorkshopTool publishx4  -path "..\X4 Foundations\extensions\Audiowide Font" -preview "..\X4 Foundations\extensions\Audiowide Font\preview.jpg"
